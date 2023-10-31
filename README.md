@@ -1,1 +1,2 @@
 # CourseraTestRep
+HELLO THIS IS MY FIRST REPOSITORY
